@@ -13,3 +13,29 @@ To install:
 -For Matlab, add coco/MatlabApi to the Matlab path (OSX/Linux binaries provided)
 -For Python, run "make" under coco/PythonAPI
 -For Lua, run “luarocks make LuaAPI/rocks/coco-scm-1.rockspec” under coco/
+
+
+///////////////////////////////  ADDITIONAL RESOURCES /////////////////////////////////
+
+COCO dataset guide ->
+https://www.v7labs.com/blog/coco-dataset-guide
+
+How to work with object detection dataset in COCO format ->
+https://towardsdatascience.com/how-to-work-with-object-detection-datasets-in-coco-format-9bf4fb5848a4
+
+How to train an Object Detector with your own COCO dataset in PyTorch ->
+https://medium.com/fullstackai/how-to-train-an-object-detector-with-your-own-coco-dataset-in-pytorch-319e7090da5
+
+Using COCO dataset & biases ->
+https://datagen.tech/guides/image-datasets/ms-coco-dataset-using-it-in-your-computer-vision-projects/
+
+COCO with YOLO tutorial ->
+https://deeplodocus.readthedocs.io/en/master/tutorials/coco/
+
+70 page Report : COCO dataset & Object Detection ->
+https://hackernoon.com/70-page-report-on-the-coco-dataset-and-object-detection-part-2
+
+
+
+
+
